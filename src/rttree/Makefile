@@ -227,6 +227,11 @@ rttree_sub_last_c.o:	rttree_sub_last_c.c $(RTTREE_SUBTREE_DEFS)
 rttree_sub_last_cx.o:	rttree_sub_last_cx.c $(RTTREE_SUBTREE_DEFS)
 rttree_sub_last_x.o:	rttree_sub_last_x.c $(RTTREE_SUBTREE_DEFS)
 
+rttree_sub_last_v.o:	rttree_sub_last_v.c $(RTTREE_SUBTREE_DEFS)
+rttree_sub_last_c_v.o:	rttree_sub_last_c_v.c $(RTTREE_SUBTREE_DEFS)
+rttree_sub_last_cx_v.o:	rttree_sub_last_cx_v.c $(RTTREE_SUBTREE_DEFS)
+rttree_sub_last_x_v.o:	rttree_sub_last_x_v.c $(RTTREE_SUBTREE_DEFS)
+
 rttree_sub_next.o:	rttree_sub_next.c $(RTTREE_NEXT_DEFS)
 rttree_sub_next_c.o:	rttree_sub_next_c.c $(RTTREE_NEXT_DEFS)
 rttree_sub_next_cx.o:	rttree_sub_next_cx.c $(RTTREE_NEXT_DEFS)
